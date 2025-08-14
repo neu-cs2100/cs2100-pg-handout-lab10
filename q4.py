@@ -1,8 +1,11 @@
+"""
+Use your implementation of union-find to find cliques. 
+A clique is a set of Users where everybody in the set is friends 
+with at least one other person in the set, and none of them are 
+friends with someone outside the set.
 
-# Use your implementation of union-find to find cliques. 
-# A clique is a set of Users where everybody in the set is friends 
-# with at least one other person in the set, and none of them are 
-# friends with someone outside the set.
+There are comments to help, but you will need to write documentation.
+"""
 
 def print_cliques() -> None:
     # Step 1. Make every user the representative of their own clique. (Make them their own parent.)
