@@ -1,3 +1,10 @@
+"""
+The purpose of this problem is to get practice with recursive functions, though you may additionally 
+write a version using a for loop for practice.
+
+Please implement the wrap_parens() function below to match the documentation.
+"""
+
 
 def wrap_parens(text: str, num: int) -> str:
     """Returns the text, wrapped in num number of parentheses.
@@ -15,7 +22,3 @@ def wrap_parens(text: str, num: int) -> str:
     str
         The text, wrapped in num number of parentheses
     """
-
-
-
-# The purpose of this problem is to get practice with recursive functions, though you may additionally write a version using a for loop for practice.
