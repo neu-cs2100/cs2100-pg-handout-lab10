@@ -1,25 +1,16 @@
-This lab contains the last two out of four ethics-related questions in Homework 9.
-It may be useful to refresh your memory of last week's lab's ethics question for context on measuring distance.
+This lab contains parts of the ethics-related questions in Homework 8.
 
-### Fairness
 
-Traveling by public transportation costs different amounts of money, depending on
-how far you're going. Additionally, passengers with low incomes can
-receive discounted tickets.
+### Question 1: robots.txt
 
-What if we defined the edge weight between two stations as 1/n, where n
-is the revenue from ticket sales from passengers travelling between
-those two stations?
+Search online for a file called robots.txt. What is the intention of this file? Is it enforced?
 
-_How would you ensure that it still services all communities, including
-those with less money?_
+### Question 2: Stakeholder-value matrix
 
-### Climate change
+Please create a stakeholder-value matrix for a product which requires scraping the 
+internet at large. Please include at least five stakeholders and at least five values.
+Assume that the scraped data is being used for a product for users, such as a generative
+AI model.
 
-We want to reduce traffic congestion and greenhouse gas emissions from cars
-driving on the roads. Let's assume that car drivers will switch to public transportation if it
-is more convenient than driving.
-
-_What definition could we use for the edge weights such that the MST will
-select a system of train tracks that would reduce the number of cars on the
-road?_
+It is recommended (but not required) that one of the stakeholders be bloggers from more
+than ten years ago, and that one of the values is avoiding intellectual property theft.
